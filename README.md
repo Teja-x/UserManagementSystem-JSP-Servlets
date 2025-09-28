@@ -1,7 +1,7 @@
 # TestApp -- User Management System
 
 A simple **user-management web application** built with **JSP, Servlets,
-JDBC, and MVC architecture**.\
+JDBC, and MVC architecture**.
 It demonstrates CRUD operations (Create, Read, Update, Delete) with a
 **clean UI, database connectivity, and structured MVC flow**.
 
@@ -9,21 +9,21 @@ It demonstrates CRUD operations (Create, Read, Update, Delete) with a
 
 ## 🚀 Features
 
--   Add new users with validation\
--   List all users in a clean table view\
--   Update existing user details\
--   Delete users safely\
--   MVC Pattern: **JSP (View) → Servlet Controller → DAO → Database**\
+-   Add new users with validation
+-   List all users in a clean table view
+-   Update existing user details
+-   Delete users safely
+-   MVC Pattern: **JSP (View) → Servlet Controller → DAO → Database**
 -   Minimal Bootstrap-based UI with reusable header/footer
 
 ------------------------------------------------------------------------
 
 ## 🛠️ Tech Stack
 
--   **Frontend**: JSP, HTML5, CSS3, Bootstrap\
--   **Backend**: Java Servlets, JDBC\
--   **Database**: MySQL\
--   **Build Tool**: Maven\
+-   **Frontend**: JSP, HTML5, CSS3, Bootstrap
+-   **Backend**: Java Servlets, JDBC
+-   **Database**: MySQL
+-   **Build Tool**: Maven
 -   **Server**: Apache Tomcat (v10.x)
 
 ------------------------------------------------------------------------
@@ -77,7 +77,7 @@ It demonstrates CRUD operations (Create, Read, Update, Delete) with a
 
 4.  **Deploy on Tomcat**
 
-    -   Run on Apache Tomcat v10.x\
+    -   Run on Apache Tomcat v10.x
     -   Access at: `http://localhost:8080/TestApp`
 
 ------------------------------------------------------------------------
@@ -104,18 +104,18 @@ It demonstrates CRUD operations (Create, Read, Update, Delete) with a
 
 ## 📚 Learning Outcomes
 
--   Hands-on practice with **Servlets, JSP, JSTL, JDBC**\
--   Understanding of **MVC architecture in Java EE**\
--   Practical CRUD implementation with **DAO pattern**\
--   Bootstrap integration for clean UI\
+-   Hands-on practice with **Servlets, JSP, JSTL, JDBC**
+-   Understanding of **MVC architecture in Java EE**
+-   Practical CRUD implementation with **DAO pattern**
+-   Bootstrap integration for clean UI
 -   Deployment of a Maven project on **Apache Tomcat**
 
 ------------------------------------------------------------------------
 
 ## 👨‍💻 Author
 
-**Teja Sai Nayani**\
-- GitHub: [Teja-x](https://github.com/Teja-x)\
+**Teja Sai Nayani**
+- GitHub: [Teja-x](https://github.com/Teja-x)
 - LinkedIn: [Teja Nayani](https://www.linkedin.com/in/teja-nayani/)
 
 ------------------------------------------------------------------------
